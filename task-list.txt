@@ -1,0 +1,12 @@
+1. How to interact with all type of UI Objects
+2. Advanced User Interactions (Actions ex-Keyboard actions)
+3. JavaScript Execution, Alert, pop up and multiple browser windows handling
+4. Testing of Ajax Controls
+5. TestNG Conﬁguration, Suite execution (via Selenium)
+6. Grouping the test cases 
+7. Parallel script execution 
+8. Report generation 
+9. Assertions 
+10. Screenshot generation at failed step
+11. Parallel execution using Selenium grid
+12. Handling ﬁrefox proﬁle (via selenium)
